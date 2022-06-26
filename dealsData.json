@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Deal 01",
+        "originalPrice": "648",
+        "price": "549",
+        "discount": "15.28",
+        "description": "10",
+        "items": [
+            {
+                "name": "Classic Burgor",
+                "qty": "1"
+            },
+            {
+                "name": "Soft Drink",
+                "qty": "1"
+            }
+        ]
+    }
+]

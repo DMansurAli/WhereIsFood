@@ -1,0 +1,44 @@
+[
+    {
+        "appKey": "1105-1234",
+        "orderID": "110",
+        "customerName": "Mansur Ali",
+        "deliveryType": "Delivery",
+        "subtotal": "1200",
+        "charges": "12",
+        "tax": "12",
+        "discount": "12",
+        "total": "1200",
+        "deliveryCharges": {
+            "address": "",
+            "zipCode": "",
+            "city": "",
+            "state": ""
+        },
+        "orderDetails": [
+            {
+                "entryID": "1",
+                "name": "1",
+                "price": "1",
+                "description": "",
+                "qty": "1",
+                "deal": null
+            },
+            {
+                "entryID": "1",
+                "name": "Deal 1",
+                "price": "548",
+                "description": "",
+                "qty": "2",
+                "deal": [
+                    {
+                        "name": "Classic Burgers",
+                        "subCategory": "Chick N Crisp",
+                        "price": "549",
+                        "description": "For the crispy burger lovers. Warning: better than the rest! Juicy fried chicken fillet, BO'C special sauce, cheese slice, mayonnaise and chilli garlic sauce and iceberg lettuce"
+                    }
+                ]
+            }
+        ]
+    }
+]

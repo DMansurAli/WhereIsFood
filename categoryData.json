@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Burgors",
+        "subCategory": [
+            {
+                "name": "Classic Burgers"
+            },
+            {
+                "name": "Extreme Burgers"
+            }
+        ]
+    },
+    {
+        "name": "Drinks"
+    }
+]
